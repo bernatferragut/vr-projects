@@ -8,6 +8,8 @@
   * Take the time to look at them
   * Feel which one is the one that feels the most comfortable distance for you 
   * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
+  
+![overview2](https://cloud.githubusercontent.com/assets/17754060/20230904/b433a774-a834-11e6-9cc7-f9281870b44e.png)
 
 > The idea is as a first project just to have a feeling of 3D Depth of view giving the most comfortable distance.
 
