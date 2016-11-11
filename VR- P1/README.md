@@ -18,9 +18,9 @@
   1. 3D Positionnement
   2. Shapes and Colors
   3. Simple Interaction
-  4. Feedback checkslist:
-  4.1 Positionnement
-  4.2 Distances
-  4.3 Sizes and Colors
-  4.4 Interaction
+  4. Feedback checkslist
+  5 Positionnement
+  6 Distances
+  7 Sizes and Colors
+  8 Interaction
 
