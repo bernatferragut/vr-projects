@@ -1,5 +1,7 @@
 **VR-P01**
 
+![overview](https://cloud.githubusercontent.com/assets/17754060/20230861/81aab7c0-a834-11e6-9cdf-20f3d05d38db.png)
+
 > VR-Feeling and Presence of Distances mini-game
 
   * There are cubes in front of you at distances between 2.5 and 30 meters
