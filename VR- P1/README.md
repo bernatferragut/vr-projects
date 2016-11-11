@@ -12,3 +12,15 @@
 ![vr-ui01](https://cloud.githubusercontent.com/assets/17754060/20038401/e1b32d88-a400-11e6-9711-261841a912d7.jpg)
 
 
+> mini-VR UI
+
+  0. Presence
+  1. 3D Positionnement
+  2. Shapes and Colors
+  3. Simple Interaction
+  4. Feedback checkslist:
+  4.1 Positionnement
+  4.2 Distances
+  4.3 Sizes and Colors
+  4.4 Interaction
+
