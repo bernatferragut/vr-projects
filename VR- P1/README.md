@@ -1,18 +1,17 @@
 **VR-P01**
 
-> mini-VR UI
+> VR-Feeling and Presence of Distances mini-game
 
-  * Simple
-  * Clean
-  * Natural
-  * Intuituve
+  * There are cubes in front of you at distances between 2.5 and 30 meters
+  * Take the time to look at them
+  * Feel which one is the one that feels the most comfortable distance for you 
+  * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
 
-> A simple unfolding Circle Module which allows to choose between 3 Square Buttons and folds back.
-
-![vr-ui01](https://cloud.githubusercontent.com/assets/17754060/20038401/e1b32d88-a400-11e6-9711-261841a912d7.jpg)
+> The idea is as a first project just to have a feeling of 3D Depth of view giving the option to choose the best one.
 
 
-> mini-VR UI
+
+> mini-VR Distances Game accomplishes:
 
   0. Presence
   1. 3D Positionnement
