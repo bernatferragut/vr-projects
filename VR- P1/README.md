@@ -7,11 +7,10 @@
   * Feel which one is the one that feels the most comfortable distance for you 
   * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
 
-> The idea is as a first project just to have a feeling of 3D Depth of view giving the option to choose the best one.
+> The idea is as a first project just to have a feeling of 3D Depth of view giving the most comfortable distance.
 
 
-
-> mini-VR Distances Game accomplishes:
+> Mini-VR Distances Game accomplishes:
 
   0. Presence
   1. 3D Positionnement
