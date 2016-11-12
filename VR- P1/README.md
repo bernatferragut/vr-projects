@@ -11,7 +11,8 @@
   
 ![bestlayoutselection](https://cloud.githubusercontent.com/assets/17754060/20230936/ebf297d8-a834-11e6-9c72-9410d5e94627.png)
 
-> The idea is as a first project just to have a feeling of 3D Depth of view giving the most comfortable distance.
+> Presence in 3D through the depth of view VR distances landcape. The aim is to able to choose the more comfortable distance
+and the distance where one does not feel the depth of field anymore. You can achieve that through clicking over the cubes with the GazeClick functionality from Google VR SDK and turning them to Red through some simple C# scripting.
 
 
 > Mini-VR Distances Game accomplishes:
