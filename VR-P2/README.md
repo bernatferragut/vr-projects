@@ -1,6 +1,6 @@
 **VR-P01**
 
-![overview](https://cloud.githubusercontent.com/assets/17754060/20230861/81aab7c0-a834-11e6-9cdf-20f3d05d38db.png)
+![planets](https://cloud.githubusercontent.com/assets/17754060/20502096/f69dc99c-b012-11e6-80a2-0e9297550cce.jpg)
 
 > VR-Feeling and Presence of Distances mini-game
 
