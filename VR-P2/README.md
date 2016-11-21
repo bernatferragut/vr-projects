@@ -9,7 +9,7 @@
   * Feel which one is the one that feels the most comfortable distance for you 
   * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
   
-![bestlayoutselection](https://cloud.githubusercontent.com/assets/17754060/20230936/ebf297d8-a834-11e6-9c72-9410d5e94627.png)
+![planetsvr](https://cloud.githubusercontent.com/assets/17754060/20501895/1a78ca0c-b012-11e6-8287-572e3d3b9cb8.jpg)
 
 > Presence in 3D through the depth of view VR distances landcape. The aim is to able to choose the more comfortable distance
 and the distance where one does not feel the depth of field anymore. You can achieve that through clicking over the cubes with the GazeClick functionality from Google VR SDK and turning them to Red through some simple C# scripting.
