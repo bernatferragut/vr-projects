@@ -1,29 +1,28 @@
-**VR-P01**
+#**VR-P02**#
 
 ![planets](https://cloud.githubusercontent.com/assets/17754060/20502096/f69dc99c-b012-11e6-80a2-0e9297550cce.jpg)
 
-> VR-Feeling and Presence of Distances mini-game
+> VR-Planets
 
-  * There are cubes in front of you at distances between 2.5 and 30 meters
-  * Take the time to look at them
-  * Feel which one is the one that feels the most comfortable distance for you 
-  * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
+  * Build the earth planetary system to scale. ( but the Sun )
+  * Give the right translations and speed to the different planets.
+  * Insert a camera between Mars and the Moon, rotating with earth as the Camera View point
+  * From there we can have a sense of scale and beauty of the universe in VR.
   
 ![planetsvr](https://cloud.githubusercontent.com/assets/17754060/20501895/1a78ca0c-b012-11e6-8287-572e3d3b9cb8.jpg)
 
-> Presence in 3D through the depth of view VR distances landcape. The aim is to able to choose the more comfortable distance
-and the distance where one does not feel the depth of field anymore. You can achieve that through clicking over the cubes with the GazeClick functionality from Google VR SDK and turning them to Red through some simple C# scripting.
+> By putting the camera in a strategic position we can acieve great immersion in  percieveing the movement and beauty 
+of the Solar System.
 
+> Planet Experiment accomplishes:
 
-> Mini-VR Distances Game accomplishes:
+  0. Insert real textures to the scene
+  1. Create sort of photorealism 
+  2. Inclusion of camera effect LensFlare when looking at the sun
+  3. We can see which planet we are looking at when gazing over through a script
+  4. Great Immersion
+  5. Simple Interaction
+  6. You can have real feeling of the distances and proportions of the different planets
+  7. More than a game is a learning experience
 
-  0. Presence
-  1. 3D Positionnement
-  2. Shapes and Colors
-  3. Simple Interaction
-  4. Feedback checkslist
-  5 Positionnement
-  6 Distances
-  7 Sizes and Colors
-  8 Interaction
 
