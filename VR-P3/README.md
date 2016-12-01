@@ -1,29 +1,29 @@
-**VR-P01**
+#**VR-P03**#
 
-![overview](https://cloud.githubusercontent.com/assets/17754060/20230861/81aab7c0-a834-11e6-9cdf-20f3d05d38db.png)
+![maz1](https://cloud.githubusercontent.com/assets/17754060/20794084/b0fe90de-b7a0-11e6-8c18-2e5085a3b463.png)
 
-> VR-Feeling and Presence of Distances mini-game
+**##VR-Maze**##
 
-  * There are cubes in front of you at distances between 2.5 and 30 meters
-  * Take the time to look at them
-  * Feel which one is the one that feels the most comfortable distance for you 
-  * Click on it with your Google Cardboard Head Set and it will change to RED the cube you choose
+* Build a Maze. 
+* You land from the air and have to find the exit.
+* To do so you need to find a key to unlock the final door to the exit.
+* You move by gazing and waypoints to teleport to different points.
   
-![bestlayoutselection](https://cloud.githubusercontent.com/assets/17754060/20230936/ebf297d8-a834-11e6-9c72-9410d5e94627.png)
+![maze2](https://cloud.githubusercontent.com/assets/17754060/20794088/b49cfb0e-b7a0-11e6-8928-a04c69402e24.png)
 
-> Presence in 3D through the depth of view VR distances landcape. The aim is to able to choose the more comfortable distance
-and the distance where one does not feel the depth of field anymore. You can achieve that through clicking over the cubes with the GazeClick functionality from Google VR SDK and turning them to Red through some simple C# scripting.
+> A game style experience where we experiment with movement, speed and teleport in VR.
+
+## Maze Experiment accomplishes:
+
+0. Play with physics.
+1. Move between autowalk and teleport
+2. Inclusion nd experimentation with waypoints to move in certain places.
+3. Apply game logic to go from place to place.
+4. Sound inclusion
+5. Simple Interaction.
+6. Fun to play and really immersive because of the maze proportions
+7. A positive first moving experience inside VR!
+  
 
 
-> Mini-VR Distances Game accomplishes:
-
-  0. Presence
-  1. 3D Positionnement
-  2. Shapes and Colors
-  3. Simple Interaction
-  4. Feedback checkslist
-  5 Positionnement
-  6 Distances
-  7 Sizes and Colors
-  8 Interaction
 
