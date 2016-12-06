@@ -1,6 +1,6 @@
 #**VR-P03**#
 
-![maz1](https://cloud.githubusercontent.com/assets/17754060/20794084/b0fe90de-b7a0-11e6-8c18-2e5085a3b463.png)
+![1](https://cloud.githubusercontent.com/assets/17754060/20909320/38b81070-bb31-11e6-832b-6c92a36c66ff.png)
 
 **##VR-Maze**##
 
@@ -9,7 +9,7 @@
 * To do so you need to find a key to unlock the final door to the exit.
 * You move by gazing and waypoints to teleport to different points.
   
-![maze2](https://cloud.githubusercontent.com/assets/17754060/20794088/b49cfb0e-b7a0-11e6-8928-a04c69402e24.png)
+![2](https://cloud.githubusercontent.com/assets/17754060/20909319/38966100-bb31-11e6-9794-cef0730a3b15.png)
 
 > A game style experience where we experiment with movement, speed and teleport in VR.
 
