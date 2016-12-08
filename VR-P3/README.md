@@ -9,7 +9,7 @@
 * To do so you need to find a key to unlock the final door to the exit.
 * You move by gazing and waypoints to teleport to different points.
 
-![1](https://cloud.githubusercontent.com/assets/17754060/20909320/38b81070-bb31-11e6-832b-6c92a36c66ff.png)
+![1](https://cloud.githubusercontent.com/assets/17754060/20992820/0ecfdf80-bcbd-11e6-9df5-9ce34bc713fc.png)
 
 > A game style experience where we experiment with movement, speed and teleport in VR.
 
