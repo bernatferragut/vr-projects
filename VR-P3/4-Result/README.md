@@ -9,3 +9,8 @@
 
 ![2](https://cloud.githubusercontent.com/assets/17754060/20909319/38966100-bb31-11e6-9794-cef0730a3b15.png)
 
+> Getting the Key / General Game view / Waypoints to access the key that open's the door
+
+![1](https://cloud.githubusercontent.com/assets/17754060/20992820/0ecfdf80-bcbd-11e6-9df5-9ce34bc713fc.png)
+
+
