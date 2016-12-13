@@ -15,14 +15,15 @@
 
 ## Maze Experiment accomplishes:
 
-0. Play with physics.
-1. Move between autowalk and teleport
-2. Inclusion nd experimentation with waypoints to move in certain places.
-3. Apply game logic to go from place to place.
-4. Sound inclusion
+0. Play with physics attched to the Main Camera
+1. Move between autowalk and teleport to see the potential effects combining both at the same time
+2. Inclusion and experimentation with waypoints to move between certain places where crossing is difficult
+3. Apply game logic to go from place to place and taking objects to open doors
+4. General Sound / and object especific inclusion
 5. Simple Interaction.
 6. Fun to play and really immersive because of the maze proportions
-7. A positive first moving experience inside VR!
+7. A positive first moving experience inside VR 
+8. Important feedback that gives as important clues about how to approach the next projects
   
 
 
