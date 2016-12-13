@@ -1,6 +1,7 @@
 #**VR-P02**#
 
-![planets](https://cloud.githubusercontent.com/assets/17754060/20502096/f69dc99c-b012-11e6-80a2-0e9297550cce.jpg)
+![vr-planets](https://cloud.githubusercontent.com/assets/17754060/21137591/97956afa-c100-11e6-909f-c7389200a167.png)
+
 
 **##VR-Planets**##
 
@@ -9,7 +10,7 @@
 * Insert a camera between Mars and the Moon, rotating with the earth as the Camera View point.
 * From there we can have a good sense of scale and presence within the universe in VR.
   
-![planetsvr](https://cloud.githubusercontent.com/assets/17754060/20501895/1a78ca0c-b012-11e6-8287-572e3d3b9cb8.jpg)
+![planets](https://cloud.githubusercontent.com/assets/17754060/20502096/f69dc99c-b012-11e6-80a2-0e9297550cce.jpg)
 
 > By putting simply the camera in a 'strategic position' we can acieve great immersion in  percieveing the movement and beauty 
 of the Solar System. (Here comes my experience in real cinematography in place)
