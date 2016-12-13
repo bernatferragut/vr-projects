@@ -11,6 +11,12 @@
 
 > Getting the Key / General Game view / Waypoints to access the key that open's the door
 
-![1](https://cloud.githubusercontent.com/assets/17754060/20992820/0ecfdf80-bcbd-11e6-9df5-9ce34bc713fc.png)
+![rain](https://cloud.githubusercontent.com/assets/17754060/21122347/ee8bbee4-c0a7-11e6-9f24-9d5adfbb45cb.png)
+
+> Winning the Game!
+
+![bravo](https://cloud.githubusercontent.com/assets/17754060/21122346/ee01d9b8-c0a7-11e6-8856-a5d68215872c.png)
+
+
 
 
