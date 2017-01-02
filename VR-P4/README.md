@@ -17,7 +17,7 @@ that he/she liked and the ones he/she disliked. It's a first attempt to use a mi
 
 ![end](https://cloud.githubusercontent.com/assets/17754060/21591882/9d7a6658-d0de-11e6-8619-1becaa14994a.png)
 
-> We accomplish
+> We accomplish:
 
   0. Presence
   1. Real life measures of the space
@@ -27,4 +27,6 @@ that he/she liked and the ones he/she disliked. It's a first attempt to use a mi
   5. Movement between levels through Waypoints
   
   ![lighting](https://cloud.githubusercontent.com/assets/17754060/21591881/9d58d97a-d0de-11e6-9112-0789f6765f2c.png)
+
+  ====
 
